@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Myeongwon Lee
-- 📫 How to reach me Lmwxxxx (at) gmail (dot) com
+- 📫 Lmwxxxx (at) gmail (dot) com
 
 <!---
 Myeongwon Lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
